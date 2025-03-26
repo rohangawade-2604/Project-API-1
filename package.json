@@ -1,0 +1,16 @@
+{
+  "name": "project-api-1",
+  "version": "1.0.0",
+  "description": "Creating json-server API and rendering on the web server for deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node Server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     "json-server": "^0.17.1"
+  }
+}
