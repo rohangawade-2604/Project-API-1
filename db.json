@@ -1,16 +1,339 @@
 {
-    "user": [],
-    "admin": [],
-    "hotel": [
-      {
-        "category": "Family",
-        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-        "type_of_room": "AC",
-        "bed_type": "Double",
-        "no_of_persons": "2",
-        "capacity": "3",
-        "cost": "4000",
-        "booked": false
-      }
+   "Card": [
+    {
+        "id": "1",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8fa3fb38e826b2a48abdf_0_featured_image_tilt_rotator-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Tilt Rotator"
+    },
+
+    {
+        "id": "2",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7bb532cbaeb164fa045f9_0_featured_image_Hydraulic_Grab-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Hydraulic Grab"
+    },
+
+    {
+        "id": "3",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7af4353d3e4ee4d880cde_0_featured_image_Digging_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Digging Bucket"
+    },
+
+    {
+        "id": "4",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d237b38f7f40e02da3e740_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Rock Breaker"
+    },
+
+    {
+        "id": "5",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23434bbfed96ff5559942_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Mud Bucket"
+    },
+
+    {
+        "id": "6",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d240fac9a9bdeb9ac98d9a_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Hydraulic Tilting Hitch"
+    },
+
+    {
+        "id": "7",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8d2841245880a58d7ed04_0_featured_image_4-in-1-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Heavy duty 4 in 1 Bucket"
+    },
+
+    {
+        "id": "8",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23610921ae7e4d25d657a_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Ripper"
+    },
+
+    {
+        "id": "9",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b31ba3eb4f831daeb8bc_0_featured_image_Tilting_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Tilting Bucket"
+    },
+
+    {
+        "id": "10",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b31ba3eb4f831daeb8bc_0_featured_image_Tilting_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Mechanical Grab"
+    },
+
+    {
+        "id": "11",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8a57c9e62bc7c5df76bda_0_featured_image_Hydraulic_Grab_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Hydraulic Grab Bucket"
+    },
+
+    {
+        "id": "12",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b5e92cbaeb164f9b927e_0_featured_image_Rock_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Rock Bucket"
+    },
+
+    {
+        "id": "13",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b173ef9acc58a474804a_0_featured_image_hydraulic_thumb-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Hydraulic Thumbs"
+    },
+
+    {
+        "id": "14",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b8ad81c2dd042f1420be_0_feature_Quarry_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Quarry Bucket"
+    }, 
+    
+    {
+        "id": "15",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23e24478b13f4e98bae02_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Hydraulic Quick Hitch"
+    },
+
+    {
+        "id": "16",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d242d447f0602b20d249f1_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Heavy Duty Stick Rake"
+    },
+
+    {
+        "id": "17",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b62b4bfa605e290c2f3b_0_featured_image_Mud_Sieve_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Mud Sieve Bucket"
+    },
+
+    {
+        "id": "18",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b44d6152ca19c9661b16_0_featured_image_Rock_Sieve_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Rock Sieve Bucket"
+    },
+
+    {
+        "id": "19",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b73f4743cc7aa18e1190_0_feature_V_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "V Bucket"
+    },
+
+    {
+        "id": "20",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23852698a3e5502e32346_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Compaction Wheel"
+    },
+
+    {
+        "id": "21",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a671c53fbbae3b88a9ec_0_featured_image_vibrating_compaction_plate-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Vibrating Compaction Plate"
+    },
+
+    {
+        "id": "22",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a671c53fbbae3b88a9ec_0_featured_image_vibrating_compaction_plate-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Excavator Pallet Forks"
+    },
+
+    {
+        "id": "23",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Rotary Screening Bucket"
+    },
+
+    {
+        "id": "24",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d23c2684f34364f302574d_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Vibrating Ripper"
+    },
+
+    {
+        "id": "25",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8db0a4c0588a1c07ee4a3_0_featured_image_vibrating_pile_driver-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Vibrating Pile Driver"
+    },
+
+    {
+        "id": "26",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d2407c663d52d4d86a288b_0_feature-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Hydraulic Tree Share"
+    },
+
+    {
+        "id": "27",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b358a893d28dae928fc1_0_featured_image_rotating_multipurpose_grab-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Rotating Multipurpose Grab"
+    },
+
+    {
+        "id": "28",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8b3a3a6c6a9bdb8238a0b_0_featured_image_Sorting_Grab_Series-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Sorting Grab Series"
+    },
+
+    {
+        "id": "29",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8bc4654fef4ba5fd2cf61_0_featured_image_clamshell_bucket_series-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Clamshell Bucket Series"
+    },
+
+    {
+        "id": "30",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8bc4654fef4ba5fd2cf61_0_featured_image_clamshell_bucket_series-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Sweeper Broom"
+    },
+
+    {
+        "id": "31",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ca6819d5f4bb177cd81b_0_featured_image_rotating_fixed_log_grapple-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Rotating Fixed Log Grapple"
+    },
+
+    {
+        "id": "32",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ca6819d5f4bb177cd81b_0_featured_image_rotating_fixed_log_grapple-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Grader Blade"
+    },
+
+    {
+        "id": "33",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79c54b31dd40f255588c2_0_feature_transverse_drum_cutter-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Transverse Drum Cutters Series"
+    },
+
+    {
+        "id": "34",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d79e7793f2cc92ce03cc79_0_featured_image_rock_saw-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Rock Saw Series"
+    },
+
+    {
+        "id": "35",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a7ce9b7cba72b49f1d39_0_featured_image_Crusher_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Chrusher Bucket"
+    },
+
+    {
+        "id": "36",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8cf7a000dade2dcf45c_0_featured_image_Flail_Mower-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Flail Mower"
+    },
+
+    {
+        "id": "37",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a722068791565c3728a9_0_featured_image_auger-p-500.webp",
+        "name": "Auger Gear"
+    },
+
+    {
+        "id": "38",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7a8604f2e71cc108323ae_0_featured_image_Mulcher-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Mulcher"
+    },
+
+    {
+        "id": "39",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "MBI Pulverisers"
+    },
+
+    {
+        "id": "40",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e830a32f3bebed35d766_0_featured_image_mbi_pulveriser-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "MBI Eagle 3 Rotating Scrap Shear"
+    },
+
+    {
+        "id": "41",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e0762537737075efbbe7_0_featured_image_mbi_eagle_2-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "MBI Eagle 2 Rotating Scrap Shear"
+    },
+
+    {
+        "id": "42",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8e0762537737075efbbe7_0_featured_image_mbi_eagle_2-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "MBI MultiSystem"
+    },
+
+    {
+        "id": "43",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "MBI Rail Breaker"
+    },
+
+    {
+        "id": "44",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "MBI Combi Crusher"
+    },
+
+    {
+        "id": "45",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "MBI Primary Crusher"
+    },
+
+    {
+        "id": "46",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8ee03227aa5121f70fc09_0_featured_image_mbi_pulveriser-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "High Performance Rock Breaker"
+    },
+
+    {
+        "id": "47",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9bf461e5c6c48cc5720_0_featured_image_Cable_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Cable Bucket"
+    },
+
+    {
+        "id": "48",
+        "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d7b9bf461e5c6c48cc5720_0_featured_image_Cable_Bucket-p-500.webp",
+        "price": "2.8 - 25T",
+        "name": "Grading Bucket"
+    }
+
     ]
-  }
+}
