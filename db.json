@@ -1,5 +1,5 @@
 {
-   "Card": [
+   "Card": [    
     {
         "id": "1",
         "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d363/67d8fa3fb38e826b2a48abdf_0_featured_image_tilt_rotator-p-500.webp",
@@ -335,5 +335,54 @@
         "name": "Grading Bucket"
     }
 
+    ],
+
+
+    "Partners-Cards-1": [
+        {
+            "id":"1",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d410_PPV.avif",
+            "name":"Aidan Kuzmich",
+            "post":"Managing Director"
+        },
+
+        {
+            "id":"2",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d411_PPV%20(2).avif",
+            "name":"Morgan Watts",
+            "post":"Marketing Director"
+        },
+
+        {
+            "id":"3",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d412_PPV%20(3).avif",
+            "name":"Max Tomich",
+            "post":"Sales Director"
+        }
+
+    ],
+
+    "Partners-Cards-2":[
+        {
+            "id":"4",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e22de0ab682ea7fc638ad1_Jordan_Headshot_2025.png",
+            "name":"Jordan Kuzmich",
+            "post":"Operations Director"
+        },
+
+        {
+            "id":"5",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
+            "name":"Nader Taleb",
+            "post":"National Sales Manager"
+        },
+
+        {
+            "id":"6",
+            "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b339219fdf1bd1613776_Wood_PPV.jpg",
+            "name":"Nathan Wood",
+            "post":"Business Development Manager"
+        }
     ]
+  
 }
