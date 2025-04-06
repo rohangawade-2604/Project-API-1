@@ -358,11 +358,8 @@
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d412_PPV%20(3).avif",
             "name":"Max Tomich",
             "post":"Sales Director"
-        }
+        },
 
-    ],
-
-    "Partners-Cards-2":[
         {
             "id":"4",
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e22de0ab682ea7fc638ad1_Jordan_Headshot_2025.png",
@@ -383,6 +380,9 @@
             "name":"Nathan Wood",
             "post":"Business Development Manager"
         }
+
     ]
+
+   
   
 }
