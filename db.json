@@ -381,7 +381,120 @@
             "post":"Business Development Manager"
         }
 
+    ],
+
+
+    "partner-profile": [
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
+            "post": "National Sales Manager",
+             "number": "(+61) 426 503 432",
+             "email": "nader@aussiebuckets.com.au"
+        },
+
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e243a3eb02a5ac0e046d72_Sam_Chiverton.png",
+            "post": "National Service Manager",
+             "number": "(+03) 9917 3678",
+             "email": "support@aussiebuckets.com.au"
+        }
+    ],
+
+    "partner-profile-2": [
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d538_KIM%20COOPER.avif",
+            "name": "Kim Elston",
+            "post": "Sales Coordinator",
+            "number": "(+61) 483 912 667",
+            "email" : "kim@aussiebuckets.com.au",
+            "team": "Accounts Team",
+            "no.2": "(+61) 483 912 667",
+            "em2": "accounts@aussiebuckets.com.au"
+        },
+
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e243c9cc6632251d3d1544_Ruby_Feldwick.png",
+            "name": "Ruby Feldwick",
+            "post": "Shipping Administrator",
+            "number": "+(03) 9917 8619",
+            "email" : "ruby@aussiebuckets.com.au",
+            "team": "Shipping Team",
+            "no.2": "(+61) 3 9917 8619",
+            "em2": "shipping@aussiebuckets.com.au"
+        }
+    ],
+
+    "core-values" : [
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55c947fab307b7ac50fde_Mission.svg",
+            "name": "Honest",
+            "para": "If things aren't perfect we want you to be the first to know, keeping you in the loop with the good times and the challenges."
+        },
+
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cb93073da0bff76b719_Fair%20%26%20Aware.svg",
+            "name": "Fair & Aware",
+            "para": "All purchases are significant purchases no matter the price, we always want to get it right by making sure it's the perfect solution for you."
+        },
+
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cc25d8b9ec9bf8428da_Reliable.svg",
+            "name": "Reliable",
+            "para": "We value staff training and ensure that we provide expert knowledge across our product range and beyond."
+        },
+        
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55ccd753aaac18aa79dee_Quality.svg",
+            "name": "Quality",
+            "para": "Committed to providing the right solution that matches your operational requirements."
+        },
+
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55cd65d8b9ec9bf843052_Growth.svg",
+            "name": "Growth",
+            "para": "We sell hundreds of attachments every month, all with unique requirements, by listening to customer feedback and reviewing our service tickets we can rapidly improve our product quality"
+        },
+
+        {
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b55ce26da9f1615d8c958e_Solution.svg",
+            "name": "Solutions",
+            "para": "To provide the largest range of excavator attachments under one roof"
+        }
+
+    ],
+
+    "Selling-points": [
+        {   
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4da_No%20Unjustified%20Markups.svg",
+            "name": "No Unjustified Markups",
+            "para2": "We don't believe in charging unaffordable prices for the products you need. Reduce unnecessary overheads and maximise business profits in quality gear at a fair and honest price point. We won’t be beaten on value."
+        },
+
+        {   
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4db_100_%20Purpose-Built%20%26%20Customisable.svg",
+            "name": "100% Purpose-Built & Customisable",
+            "para2": "Impress customers with higher quality output in a fraction of the time using 100% purpose-built attachments; designed for optimal performance and efficiency."
+        },
+
+        {   
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dc_Industry-Leading%205-Year%20Warranty.svg",
+            "name": "Industry-Leading 5-Year Warranty",
+            "para2": "Put behind you the concerns of equipment failure and stressful, costly maintenance with our comprehensive 5-year warranty coverage."
+        },
+
+        {   
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dd_Exclusive%20Technical%20Support.svg",
+            "name": "Lifetime After-Sales Support",
+            "para2": "There’s nothing worse than being forgotten about post-purchase. Diminish any on-site stress or headaches with our lifetime technical support and guidance; so all customers can spend more time doing the things they enjoy, whilst we take care of the rest."
+        },
+
+        {   
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4de_Australia_s%20Largest%20Range.svg",
+            "name": "Largest Range in Australia",
+            "para2": "Our range includes 60+ unique attachments, in 100’s of variations, including full custom fab capabilities from design to manufacturing. Remove time-draining quote-hunting and take advantage of the best rates in the market all under the one roof."
+        }
     ]
+
 
    
   
