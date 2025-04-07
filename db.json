@@ -387,6 +387,7 @@
     "partner-profile": [
         {
             "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/6757b2c1bb324fdb6e716b34_Taleb_PPV.jpg",
+            "name": "Nader Taleb",
             "post": "National Sales Manager",
              "number": "(+61) 426 503 432",
              "email": "nader@aussiebuckets.com.au"
@@ -394,6 +395,7 @@
 
         {
             "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67e243a3eb02a5ac0e046d72_Sam_Chiverton.png",
+            "name" : "Sam Chiverton",
             "post": "National Service Manager",
              "number": "(+03) 9917 3678",
              "email": "support@aussiebuckets.com.au"
@@ -408,7 +410,7 @@
             "number": "(+61) 483 912 667",
             "email" : "kim@aussiebuckets.com.au",
             "team": "Accounts Team",
-            "no.2": "(+61) 483 912 667",
+            "no2": "(+61) 483 912 667",
             "em2": "accounts@aussiebuckets.com.au"
         },
 
@@ -419,7 +421,7 @@
             "number": "+(03) 9917 8619",
             "email" : "ruby@aussiebuckets.com.au",
             "team": "Shipping Team",
-            "no.2": "(+61) 3 9917 8619",
+            "no2": "(+61) 3 9917 8619",
             "em2": "shipping@aussiebuckets.com.au"
         }
     ],
