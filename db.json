@@ -482,8 +482,10 @@
             "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dc_Industry-Leading%205-Year%20Warranty.svg",
             "name": "Industry-Leading 5-Year Warranty",
             "para2": "Put behind you the concerns of equipment failure and stressful, costly maintenance with our comprehensive 5-year warranty coverage."
-        },
+        }     
+    ],
 
+    "Selling-point-2": [
         {   
             "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b04d5d579de4c891b7d4dd_Exclusive%20Technical%20Support.svg",
             "name": "Lifetime After-Sales Support",
