@@ -571,7 +571,8 @@
             "img":"https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/66b41d82da5e4b687adae621_Revenue%20Spent%20on%20R%26D.svg",
             "value":"4",
             "suffix":"%",
-            "h1": "We reinvest 4% of our total revenue annually into research and development to ensure our products are of the highest quality and perform exceptionally"
+            "h1": "Of Revenue Spent On R&D",
+            "p":"We reinvest 4% of our total revenue annually into research and development to ensure our products are of the highest quality and perform exceptionally"
 
         },
 
@@ -584,7 +585,57 @@
             "p":"Our products are fully customisable with various steel grades available depending on customer preference and application. Our selection includes HARDOX (Europe), NM (China) and Bisalloy (Australia)"
 
         }
+    ],
+
+    "Attachments":[
+        {
+            "h1": "Versatile Solutions",
+            "p":"Whether you’re managing large-scale commercial projects or handling small excavation jobs, our products are designed to meet the demands of your worksite. Our buckets are precision-engineered to handle any task from digging to grading with efficiency and ease.",
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67a05b3101a2d1392a29be1b_Rock%20Sieve%20Bucket%202-min%201.avif"
+        },
+
+        {
+            "h1": "Boost Productivity",
+            "p":"Need to ramp up your productivity? Check out our Hydraulic Attachments, designed to deliver unmatched efficiency and power on the job site. For the toughest challenges, our Rippers and Grapples are built to provide robust performance and reliability you can count on.",
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67bff3f5d487182772a67fbb_Grab%20Bucket.avif"
+        },
+
+        {
+            "h1": "Tailored to Your Needs",
+            "p":"Have specific requirements? We also offer custom-designed attachments tailored to seamlessly integrate with your heavy-duty machine, giving you the perfect tool for your unique project needs.",
+            "img": "https://cdn.prod.website-files.com/66b04d5d579de4c891b7d35c/67da3632f2925a9edff16936_Triple_Rock_Saw_Min.webp"
+        }
+    ],
+
+    "choosing":[
+        {
+            "img":"http://www.w3.org/2000/svg",
+            "h1": "Industry-Leading Support",
+            "p":"Our team is here to assist you, from selecting the right attachment to after-sales service. We offer lifelong after-sales support, including technical troubleshooting and general product care."
+        },
+
+        {
+            "img":"http://www.w3.org/2000/svg",
+            "h1": "Fast Shipping Across Australia",
+            "p":"Need your equipment quickly? We ensure fast and reliable delivery so you can keep your projects on schedule."
+        },
+
+        {
+            "img":"http://www.w3.org/2000/svg",
+            "h1": "Experience You Can Trust",
+            "p":"With years of expertise in construction and earthmoving equipment, we understand what contractors and operators need to succeed."
+        },
+
+        {
+            "img":"http://www.w3.org/2000/svg",
+            "h1": "Customisable Solutions",
+            "p":"We design and manufacture attachments to fit a wide range of excavator models, ensuring seamless integration and performance.."
+        }
+
     ]
+
+
+
 
     
 
